@@ -1,0 +1,3 @@
+/qqmail_head*
+/ack?s*
+/ack
